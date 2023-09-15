@@ -1,8 +1,11 @@
 ---
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F7F7F7&width=435&lines=Hi!+I'm+Carolina+Armentano!)](https://git.io/typing-svg)
-<!-- WIP - I really love coffee and code! Click here for an awersome surprise:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=F7F7F7&vCenter=true&width=435&height=28&lines=Hi%2C+I'm+Carolina+Armentano!)](https://git.io/typing-svg)
+
+<!-- WIP
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=3000&pause=1000&color=F7F7F7&multiline=true&repeat=false&width=435&height=85&lines=Hi%2C+I'm+Carolina+Armentano!;I+really+like+coffee+and+code.+;Click+here+for+an+awesome+surprise%3A)](https://git.io/typing-svg)
+
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-<a href="#"> <!---link to armentanoc's surprise --->
+<a href="#"> <!---link to armentanoc's surprise ---> 
 
 ---
 
