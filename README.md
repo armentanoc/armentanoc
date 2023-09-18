@@ -23,7 +23,7 @@
 
 <h3>Tools & Data</h3>
 
-![Git](https://img.shields.io/badge/git-fc6d26?style=modern&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=modern&logo=github&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=modern&logo=mysql&logoColor=white)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=modern&logo=postgresql&logoColor=white)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=modern&logo=numpy&logoColor=white)![Google Cloud](https://img.shields.io/badge/google%20cloud-%234285F4.svg?style=modern&logo=google-cloud&logoColor=white)![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=modern&logo=npm&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=modern&logo=figma&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=modern&logo=github&logoColor=white)![Git](https://img.shields.io/badge/git-fc6d26?style=modern&logo=git&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=modern&logo=mysql&logoColor=white)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=modern&logo=postgresql&logoColor=white)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=modern&logo=numpy&logoColor=white)![Google Cloud](https://img.shields.io/badge/google%20cloud-%234285F4.svg?style=modern&logo=google-cloud&logoColor=white)![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=modern&logo=npm&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=modern&logo=figma&logoColor=white) 
 
 ---
 
