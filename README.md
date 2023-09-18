@@ -41,7 +41,7 @@
 
 <h3>Socials</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=modern?logo=linkedin&logoColor=white)](linkedin.com/in/armentanocarolina/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=modern?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armentanocarolina/)
 [![Email](https://img.shields.io/badge/Email-E15D44.svg?style=modern?logo=gmail&logoColor=white)](mailto:armentanocarolina@gmail.com?subject=[GitHub]%20Let's%20talk!)
 
 ---
