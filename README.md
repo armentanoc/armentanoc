@@ -59,6 +59,12 @@
 <div align="center">
 <a href="">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=armentanoc&layout=compact&langs_count=8&card_width=1000&theme=dark"/>
+  <!--<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armentanoc&hide=html&layout=compact&theme=dark"/></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=armentanoc&theme=dark"/></td>
+    </tr>   
+</table>->-->
 </a>
 </div>
 
