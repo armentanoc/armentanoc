@@ -1,5 +1,5 @@
 ---
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=F7F7F7&vCenter=true&width=435&height=28&lines=Hi%2C+I'm+Carolina+Armentano!)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=f6556a&vCenter=true&width=435&height=28&lines=Hi%2C+I'm+Carolina+Armentano!)
 
 <!-- WIP
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=3000&pause=1000&color=F7F7F7&multiline=true&repeat=false&width=435&height=85&lines=Hi%2C+I'm+Carolina+Armentano!;I+really+like+coffee+and+code.+;Click+here+for+an+awesome+surprise%3A)](https://git.io/typing-svg)
