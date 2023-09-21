@@ -52,6 +52,7 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=modern&logo=google-cloud&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=modern&logo=npm&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=modern&logo=figma&logoColor=white) 
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d4.svg?style=modern&logo=VisualStudioCode&logoColor=white)
 
 ---
 
