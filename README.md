@@ -1,9 +1,8 @@
 ---
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=f6556a&vCenter=true&width=435&height=28&lines=Hi%2C+I'm+Carolina+Armentano!)
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=ff69b4&vCenter=true&width=435&height=28&lines=Hi%2C+I'm+Carolina+Armentano!" alt="Typing SVG">
+<img src="https://komarev.com/ghpvc/?username=armentanoc&color=ff69b4&style=flat" alt="Profile Views >= 2023-10-06">
 <!-- WIP
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=3000&pause=1000&color=F7F7F7&multiline=true&repeat=false&width=435&height=85&lines=Hi%2C+I'm+Carolina+Armentano!;I+really+like+coffee+and+code.+;Click+here+for+an+awesome+surprise%3A)](https://git.io/typing-svg)
-
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 <a href="#"> <!---link to armentanoc's surprise ---> 
 
@@ -78,5 +77,5 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=modern?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armentanocarolina/)
 [![Email](https://img.shields.io/badge/Email-E15D44.svg?style=modern?logo=gmail&logoColor=white)](mailto:armentanocarolina@gmail.com?subject=[GitHub]%20Let's%20talk!)
-
+![](https://komarev.com/ghpvc/?username=armentanoc&color=ff69b4&style=flat)
 ---
