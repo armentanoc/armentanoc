@@ -1,7 +1,7 @@
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=3081f7&vCenter=true&width=435&height=28&lines=Hi%2C+I'm+Carolina+Armentano!" alt="Typing SVG">
-<img src="https://komarev.com/ghpvc/?username=armentanoc&color=3081f7&style=flat" alt="Profile Views >= 2023-10-06">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&background=0D1116&center=false&vCenter=true&width=435&lines=Hi%2C+I'm+Carolina+Armentano!" alt="Typing SVG"/>
+<img src="https://komarev.com/ghpvc/?username=armentanoc&color=36BCF7&style=flat" alt="Profile Views >= 2023-10-06">
 <!-- WIP
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 <a href="#"> <!---link to armentanoc's surprise ---> 
