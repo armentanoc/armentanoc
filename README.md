@@ -1,10 +1,21 @@
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&background=0D1116&center=false&vCenter=true&width=435&lines=Hi%2C+I'm+Carolina+Armentano!" alt="Typing SVG"/>
-<img src="https://komarev.com/ghpvc/?username=armentanoc&color=36BCF7&style=flat" alt="Profile Views >= 2023-10-06">
+<img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&pause=1000&color=3181F7&vCenter=true&width=435&lines=Hi%2C+I'm+Carolina+Armentano!" alt="Typing SVG"/>
+<img src="https://komarev.com/ghpvc/?username=armentanoc&color=3181f7&style=flat" alt="Profile Views >= 2023-10-06">
 <!-- WIP
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 <a href="#"> <!---link to armentanoc's surprise ---> 
+
+---
+
+<h3>Back</h3>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=modern&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/.NET-100000?style=flat&logo=csharp&logoColor=white&labelColor=6d287e&color=6d287e)
+![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=modern&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=modern&logo=Python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=modern&logo=Flask&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=modern&logo=Node.js&logoColor=white)
 
 ---
 
@@ -17,18 +28,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=modern&logo=TypeScript&logoColor=white)
 ![jQuery](https://img.shields.io/badge/JQuery-%230769AD.svg?style=modern&logo=JQuery&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=modern&logo=React&logoColor=%2361DAFB)
-
----
-
-<h3>Back</h3>
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=modern&logo=Python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=modern&logo=Flask&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=modern&logo=Pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=modern&logo=Plotly&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=modern&logo=Node.js&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=modern&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=modern&logo=kotlin&logoColor=white)
 
 ---
 
@@ -48,6 +47,8 @@
 ![MySQL](https://img.shields.io/badge/MySql-%2300f.svg?style=modern&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=modern&logo=postgresql&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=modern&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=modern&logo=Pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=modern&logo=Plotly&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=modern&logo=google-cloud&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=modern&logo=npm&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=modern&logo=figma&logoColor=white) 
@@ -60,12 +61,14 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=armentanoc&layout=compact&langs_count=8&card_width=1000&theme=dark"/>
   <!--<table>
     <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armentanoc&hide=html&layout=compact&theme=dark"/></td>
+        <td><img width="500px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armentanoc&hide=html&layout=compact&theme=dark"/></td>
         <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=armentanoc&theme=dark"/></td>
     </tr>   
 </table>->-->
 </a>
 </div>
+
+<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=armentanoc&bg_color=000000&color=3181f7&line=3181f7&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
 ---
 
@@ -77,5 +80,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=modern?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armentanocarolina/)
 [![Email](https://img.shields.io/badge/Email-E15D44.svg?style=modern?logo=gmail&logoColor=white)](mailto:armentanocarolina@gmail.com?subject=[GitHub]%20Let's%20talk!)
-![](https://komarev.com/ghpvc/?username=armentanoc&color=ff69b4&style=flat)
 ---
