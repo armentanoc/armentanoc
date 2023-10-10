@@ -1,7 +1,15 @@
 ---
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&pause=1000&color=3181F7&vCenter=true&width=435&lines=Hi%2C+I'm+Carolina+Armentano!" alt="Typing SVG"/>
-<img src="https://komarev.com/ghpvc/?username=armentanoc&color=3181f7&style=flat" alt="Profile Views >= 2023-10-06">
+
+<div>
+<img src="https://badges.strrl.dev/visits/armentanoc/armentanoc?color=blue" alt="Visits">
+<img src="https://badges.strrl.dev/years/armentanoc?color=blue" alt="Years">
+<img src="https://badges.strrl.dev/repos/armentanoc?color=blue" alt="Repos">
+<img src="https://badges.strrl.dev/prs/monthly/armentanoc?color=blue" alt="PRsThisMonth">
+</div>
+
+<!--https://github.com/STRRL/serverless-github-badges/blob/master/README.md?plain=1-->
 <!-- WIP
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 <a href="#"> <!---link to armentanoc's surprise ---> 
