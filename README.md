@@ -8,7 +8,6 @@
 <img src="https://badges.strrl.dev/repos/armentanoc?color=blue" alt="Repos">
 <img src="https://badges.strrl.dev/prs/monthly/armentanoc?color=blue" alt="PRsThisMonth">
 </div>
-
 <!--https://github.com/STRRL/serverless-github-badges/blob/master/README.md?plain=1-->
 <!-- WIP
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
