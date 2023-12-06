@@ -4,9 +4,9 @@
 
 <div>
 <img src="https://badges.strrl.dev/visits/armentanoc/armentanoc?color=blue" alt="Visits">
-<img src="https://badges.strrl.dev/years/armentanoc?color=blue" alt="Years">
-<img src="https://badges.strrl.dev/repos/armentanoc?color=blue" alt="Repos">
 <img src="https://badges.strrl.dev/prs/monthly/armentanoc?color=blue" alt="PRsThisMonth">
+<img src="https://badges.strrl.dev/repos/armentanoc?color=blue" alt="Repos">
+<img src="https://badges.strrl.dev/years/armentanoc?color=blue" alt="Years">
 </div>
 <!--https://github.com/STRRL/serverless-github-badges/blob/master/README.md?plain=1-->
 <!-- WIP
