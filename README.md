@@ -17,7 +17,7 @@
 
 <h3>Back</h3>
 
-![C#](https://img.shields.io/badge/.NET-100000?style=flat&logo=csharp&logoColor=white&labelColor=6d287e&color=6d287e)
+![C#](https://img.shields.io/badge/.NETCore-100000?style=flat&logo=csharp&logoColor=white&labelColor=6d287e&color=6d287e)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=modern&logo=openjdk&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=modern&logo=Node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=modern&logo=Python&logoColor=ffdd54)
