@@ -63,9 +63,11 @@
 
 <h3>Data</h3>
 
+![SQLServer](https://img.shields.io/badge/SQLServer-100000?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white&labelColor=a3141a&color=a3141a)
+![SQLite](https://img.shields.io/badge/SQLite-100000?style=flat&logo=SQLite&logoColor=white&labelColor=59adde&color=59adde)
+![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=modern&logo=postgresql&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-100000?style=modern&logo=JSON&logoColor=white&labelColor=161616&color=161616)
 ![MySQL](https://img.shields.io/badge/MySql-%2300f.svg?style=modern&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=modern&logo=postgresql&logoColor=white)
 
 ---
 
