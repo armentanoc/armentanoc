@@ -1,12 +1,13 @@
 ---
 <div align="center" >
 <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&pause=1000&color=3181F7&vCenter=true&width=435&lines=Hi+there%2C+I'm+Carolina+Armentano!" alt="Typing SVG"/>
-  
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/739166908825468988?simple=true)
-![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/739166908825468988)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/739166908825468988)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/739166908825468988)](https://dev.discordprofiles.me/openspotify/739166908825468988)
-  
+
+<div align="center">
+  <img src="https://badges.strrl.dev/visits/armentanoc/armentanoc?color=blue" alt="Visits">
+  <img src="https://badges.strrl.dev/prs/monthly/armentanoc?color=blue" alt="PRsThisMonth">
+  <img src="https://badges.strrl.dev/repos/armentanoc?color=blue" alt="Repos">
+</div>
+
 </div>
 
 ---
@@ -66,3 +67,4 @@
   </a>
 </p>
 </div>
+
