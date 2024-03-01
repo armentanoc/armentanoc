@@ -56,7 +56,7 @@
 
 <div align="center">
 <p>
-  <a href="https://www.linkedin.com/armentanocarolina" rel="nofollow noreferrer">
+  <a href="https://www.linkedin.com/in/armentanocarolina" rel="nofollow noreferrer">
     <img height=43px src="https://img.icons8.com/?size=256&id=60ZV_wYC0BM2&format=png" alt="linkedin">
   </a> &nbsp; 
   <a href="mailto:armentanocarolina@gmail.com?subject=[GitHub]%20Let's%20talk!" rel="nofollow noreferrer">
