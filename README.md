@@ -29,8 +29,8 @@
 ---
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,windows,gcp,postgres,sqlite,git,github,githubactions,html,css,js,react,java,eclipse,py,vscode,gradle,bash&perline=10"/>
+  <a href="cs, dotnet, visualstudio, windows, gcp, postgres, sqlite, git, github, githubactions, html, css, js, react, java, eclipse, python, vscode, gradle, bash">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,windows,gcp,postgres,sqlite,git,github,githubactions,html,css,js,react,java,eclipse,py,vscode,gradle,bash&perline=10" />
   </a>
 </p>
 
