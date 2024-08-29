@@ -66,3 +66,11 @@
 </p>
 </div>
 
+---
+
+<div align="center">
+<h2>GitLab Contributions 2024</h2>
+  
+![gitlab-stats-2908](https://github.com/user-attachments/assets/dc62cf86-36bc-46ee-8887-12a568583719)
+  
+</div>
