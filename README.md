@@ -71,6 +71,6 @@
 <div align="center">
 <h2>GitLab Contributions 2024</h2>
   
-![gitlab-stats-0609 (1)](https://github.com/user-attachments/assets/72123f08-b2fb-450f-ad71-116c41577056)
+![gitlab-stats-0609 (2)](https://github.com/user-attachments/assets/6832f05b-ccf9-449a-8f63-b6c15d0eecc1)
 
 </div>
