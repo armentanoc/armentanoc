@@ -69,8 +69,16 @@
 ---
 
 <div align="center">
-<h2>GitLab Contributions 2024</h2>
+<h2>GitLab Contributions 2024 - Work</h2>
   
 ![gitlab-stats-0609 (2)](https://github.com/user-attachments/assets/6832f05b-ccf9-449a-8f63-b6c15d0eecc1)
+
+</div>
+
+
+<div align="center">
+<h2>GitHub Contributions 2024 - Personal</h2>
+  
+![Snake animation](https://github.com/armentanoc/armentanoc/blob/output/github-contribution-grid-snake.svg)
 
 </div>
