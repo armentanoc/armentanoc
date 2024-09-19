@@ -70,15 +70,13 @@
 
 <div align="center">
 <h2>GitLab Contributions 2024 - Work</h2>
-  
-![gitlab1909](https://github.com/user-attachments/assets/4cf99e94-268b-487e-a410-88c2c0e2d9d5)
+<img width=800px src="https://github.com/user-attachments/assets/4cf99e94-268b-487e-a410-88c2c0e2d9d5"></img>
 
 </div>
 
 
 <div align="center">
 <h2>GitHub Contributions 2024 - Personal</h2>
-  
-![Snake animation](https://github.com/armentanoc/armentanoc/blob/output/github-contribution-grid-snake.svg)
+<img width=800px src="https://github.com/armentanoc/armentanoc/blob/output/github-contribution-grid-snake.svg"></img>
 
 </div>
