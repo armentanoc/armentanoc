@@ -15,7 +15,7 @@
   
   I'm a Software Developer passionate about crafting ideas. 🛠️
   
-  Mostly I work on Web APIs in ASP.NET and systems in .NET Core, <br> but I also explore Java, Python and Android Development. 🌐
+  Mostly I work on .NET/C# microsservices (gRPCS, Web APIs) <br> using .NET Core and ASP.NET Core, but I also <br> explore Java, Python and Android Development. 🌐
   
   When I'm not coding, you can catch me <br>exploring some gaming 🎮, movies 🎬, and music 🎶.
 
