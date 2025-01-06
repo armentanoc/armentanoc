@@ -70,9 +70,8 @@
 
 <div align="center">
 <h2>GitLab Contributions 2024 - Work</h2>
-<img width=800px src="https://github.com/user-attachments/assets/5a829db9-2c44-4e7f-bc00-3e8be393e879"></img>
+<img width=800px src="https://github.com/user-attachments/assets/159d2498-cce2-44c7-8ed4-8c35d7ea1fa3"></img>
 </div>
-
 
 <div align="center">
 <h2>GitHub Contributions 2024 - Personal</h2>
