@@ -70,11 +70,15 @@
 
 <div align="center">
 <h2>GitLab Contributions 2024 - Work</h2>
-<img width=800px src="https://github.com/user-attachments/assets/159d2498-cce2-44c7-8ed4-8c35d7ea1fa3"></img>
+<img width=800px src="https://github.com/user-attachments/assets/a67dcc94-54af-4397-9f2c-9a81108f4795"></img>
+</div>
+
+<div align="center">
+<h2>GitLab Contributions 2025 - Work</h2>
+<img width=800px src="https://github.com/user-attachments/assets/c7943680-921d-4ece-bfed-aec2214fc376"></img>
 </div>
 
 <div align="center">
 <h2>GitHub Contributions 2024 - Personal</h2>
 <img width=800px src="https://github.com/armentanoc/armentanoc/blob/output/github-contribution-grid-snake.svg"></img>
-
 </div>
