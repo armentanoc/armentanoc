@@ -1,4 +1,5 @@
 ---
+
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&pause=1000&color=3181F7&vCenter=true&width=435&lines=Hi+there%2C+I'm+Carolina+Armentano!" alt="Typing SVG"/>
 <div align="center">
@@ -75,10 +76,10 @@
 
 <div align="center">
 <h2>GitLab Contributions 2025 - Work</h2>
-<img width=800px src="https://github.com/user-attachments/assets/c7943680-921d-4ece-bfed-aec2214fc376"></img>
+<img width=800px src="https://github.com/user-attachments/assets/d84d76e6-6979-4f4b-972b-d7bb025be4fb"></img>
 </div>
 
 <div align="center">
-<h2>GitHub Contributions 2024 - Personal</h2>
+<h2>GitHub Contributions - Personal</h2>
 <img width=800px src="https://github.com/armentanoc/armentanoc/blob/output/github-contribution-grid-snake.svg"></img>
 </div>
