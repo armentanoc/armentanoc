@@ -70,13 +70,13 @@
 ---
 
 <div align="center">
-<h2>GitLab Contributions 2024 - Work</h2>
-<img width=800px src="https://github.com/user-attachments/assets/a67dcc94-54af-4397-9f2c-9a81108f4795"></img>
+<h2>GitLab Contributions 2025 - Work</h2>
+<img width=800px src="https://github.com/user-attachments/assets/1c6852db-050a-4267-b6de-184d100658be"></img>
 </div>
 
 <div align="center">
-<h2>GitLab Contributions 2025 - Work</h2>
-<img width=800px src="https://github.com/user-attachments/assets/9724c0ed-e809-43bc-a684-7f51cbccad07"></img>
+<h2>GitLab Contributions 2024 - Work</h2>
+<img width=800px src="https://github.com/user-attachments/assets/a67dcc94-54af-4397-9f2c-9a81108f4795"></img>
 </div>
 
 <div align="center">
