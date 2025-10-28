@@ -71,7 +71,7 @@
 
 <div align="center">
 <h2>GitLab Contributions 2025 - Work</h2>
-<img width=800px src="https://github.com/user-attachments/assets/b16cc89d-21ec-42a4-9998-0911b41343b5"></img>
+<img width=800px src="https://github.com/user-attachments/assets/80c15c02-d237-4724-b495-a9011e1f78d2"></img>
 </div>
 
 <div align="center">
