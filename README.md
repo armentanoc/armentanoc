@@ -33,13 +33,13 @@
   </a>
 </p>
 
----
+<!-- ---
 
 <div align="center">
-  <img width=45% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=armentanoc&theme=vue-dark&hide_border=true&mode=weekly"/>
-</div>
+  <img width=45% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=armentanoc&theme=vue-dark&hide_border=true&mode=weekly"/>
+</div> -->
 
----
+--- 
 
 <div align="center">
   <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=armentanoc&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
