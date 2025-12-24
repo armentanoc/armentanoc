@@ -33,17 +33,17 @@
   </a>
 </p>
 
-<!-- ---
+<!-----
 
 <div align="center">
   <img width=45% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=armentanoc&theme=vue-dark&hide_border=true&mode=weekly"/>
-</div> -->
+</div> 
 
 --- 
 
 <div align="center">
   <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=armentanoc&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
-</div>
+</div>-->
 
 ---
 
@@ -70,6 +70,11 @@
 ---
 
 <div align="center">
+<h2>GitHub Contributions</h2>
+<img width=800px src="https://github.com/armentanoc/armentanoc/blob/output/github-contribution-grid-snake.svg"></img>
+</div>
+
+<div align="center">
 <h2>GitLab Contributions 2025 - Work</h2>
 <img width=800px src="https://github.com/user-attachments/assets/0a53451e-e342-4f36-9b2f-c516fdfef663"></img>
 </div>
@@ -77,9 +82,4 @@
 <div align="center">
 <h2>GitLab Contributions 2024 - Work</h2>
 <img width=800px src="https://github.com/user-attachments/assets/a67dcc94-54af-4397-9f2c-9a81108f4795"></img>
-</div>
-
-<div align="center">
-<h2>GitHub Contributions - Personal</h2>
-<img width=800px src="https://github.com/armentanoc/armentanoc/blob/output/github-contribution-grid-snake.svg"></img>
 </div>
