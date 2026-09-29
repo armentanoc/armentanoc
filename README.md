@@ -1,7 +1,7 @@
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&pause=1000&color=3181F7&vCenter=true&width=435&lines=Hi+there%2C+I'm+Carolina+Armentano!" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&pause=1000&color=3181F7&vCenter=true&width=435&lines=Hey+there%2C+I'm+Carolina+Armentano!" alt="Typing SVG"/>
 <div align="center">
   <img src="https://badges.strrl.dev/visits/armentanoc/armentanoc?color=blue" alt="Visits">
   <img src="https://badges.strrl.dev/prs/monthly/armentanoc?color=blue" alt="PRsThisMonth">
@@ -16,7 +16,7 @@
   
   I'm a Software Developer passionate about crafting ideas. 🛠️
   
-  Mostly I work on .NET/C# microsservices (gRPCS, Web APIs) <br> using .NET Core and ASP.NET Core, but I also <br> explore Java, Python and Android Development. 🌐
+  Mostly I work on .NET/C# microsservices (gRPCS, Event Workers and Web APIs) <br> using .NET Core and ASP.NET Core, but I also <br> explore Java, Python and Android Development. 🌐
   
   When I'm not coding, you can catch me <br>exploring some gaming 🎮, movies 🎬, and music 🎶.
 
@@ -45,12 +45,12 @@
   <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=armentanoc&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
 </div>-->
 
----
+<!---
 
 <div align="center">
   <img width=45% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armentanoc&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
 </div>
-
+-->
 ---
 
 <div align="center">
